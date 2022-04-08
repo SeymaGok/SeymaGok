@@ -18,8 +18,8 @@
 -  I am passionate about learning the modern technologies
 -  I’m currently learning AWS and DevOps 
 -  I’m looking to collaborate on DevOps and AWS
-- 📫 reach me gokseyma@gmail.com  ✨ 
-- 📫 reach me www.linkedin.com/in/seymagok  ✨ 
+- 📫 reach me at gokseyma@gmail.com  ✨ 
+- 📫 reach me at www.linkedin.com/in/seymagok  ✨ 
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seymagok&theme=radical)
 
