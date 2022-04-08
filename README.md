@@ -10,7 +10,7 @@
   
 <a href="#"><img width="50%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Puzzle.jpg" height="75px"/></a>
 
-## <img src="https://wallpaperaccess.com/full/3304183.jpg" width="4%"> About Me <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f33b.png" width="4%">
+## About Me <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f33b.png" width="4%">
   
 - 👋 Hi, I’m Seyma
 -  I’have background in Law  
