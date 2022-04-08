@@ -13,7 +13,7 @@
 ## About Me <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f33b.png" width="4%">
   
 - 👋 Hi, I’m Seyma
--  I’have background in Law  
+-  I’have a background in Law  
 -  I have two master's degrees.(LLM & MA)
 -  I am passionate about learning the modern technologies
 -  I’m currently learning AWS and DevOps 
