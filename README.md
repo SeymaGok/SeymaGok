@@ -12,14 +12,14 @@
 
 ## About Me <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f33b.png" width="4%">
   
-- 👋 Hi, I’m Seyma
+-  Hi, I’m Seyma 👋
 -  I’have a background in Law  
 -  I have two master's degrees.(LLM & MA)
 -  I am passionate about learning the modern technologies
 -  I’m currently learning AWS and DevOps 
 -  I’m looking to collaborate on DevOps and AWS
-- 📫 reach me at gokseyma@gmail.com  ✨ 
-- 📫 reach me at www.linkedin.com/in/seymagok  ✨ 
+- 📫 Reach me at gokseyma@gmail.com  ✨ 
+- 📫 Reach me at www.linkedin.com/in/seymagok  ✨ 
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seymagok&theme=radical)
 
