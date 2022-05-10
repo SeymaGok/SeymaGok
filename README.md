@@ -14,7 +14,7 @@
   
 -  Hi, I’m Seyma 👋
 -  I’have a background in Law ⚖️
--  I have two master's degrees.(LLM & MA)
+-  I have two master's degrees.(LLM & MA) 🎓🗞
 -  I am passionate about learning modern technologies
 -  I’m currently learning AWS and DevOps 
 -  I’m looking to collaborate on DevOps and AWS
