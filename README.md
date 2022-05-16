@@ -15,9 +15,9 @@
 -  Hi, I’m Seyma 👋
 -  I’have a background in Law ⚖️
 -  I have two master's degrees.(LLM & MA) 🎓🗞
--  I am passionate about learning modern technologies
+-  I am passionate about learning modern technologies and decided to change my career path.
 -  I’m currently learning AWS and DevOps 
--  I’m looking to collaborate on DevOps and AWS
+-  I’m looking to collaborate on AWS and DevOps 
 - 📫 Reach me at seymagok13@gmail.com  ✨ 
 - 📫 Reach me at www.linkedin.com/in/seymagok  ✨ 
   
