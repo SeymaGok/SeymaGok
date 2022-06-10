@@ -18,7 +18,7 @@
 -  I am passionate about learning modern technologies and decided to change my career path.
 -  I’m currently learning AWS and DevOps 
 -  I’m looking to collaborate on AWS and DevOps 
-- 📫 Reach me at seymagok13@gmail.com  ✨ 
+- 📫 Reach me at gokseyma@gmail.com  ✨ 
 - 📫 Reach me at www.linkedin.com/in/seymagok  ✨ 
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seymagok&theme=radical)
